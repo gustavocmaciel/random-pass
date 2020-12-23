@@ -11,6 +11,6 @@ def new_password:
 
     # Generate new password
     if request.method == "POST":
-        length = request.form.get("name")
+        length = request.form.get("length")
         new_password = generate_password(length)
         return render_template("new_password.html", new_password=new_password)
