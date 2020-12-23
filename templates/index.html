@@ -3,8 +3,17 @@
 {% block body %}
 
     <form action="new-password" method="post">
-        <input name="length">
-        <input type="submit">
+
+        <select required name="length">
+            <option disabled value="">Length</option>
+            <option value="4">4</option>
+            <option value="8">8</option>
+            <option value="16">16</option>
+            <option value="32">32</option>
+            <option value="64">64</option>
+        </select>
+        <input type="submit" value="Generate Password>
+
     </form>
 
 {% end block %}
