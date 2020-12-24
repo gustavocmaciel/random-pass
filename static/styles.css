@@ -7,3 +7,13 @@
     margin: 10px;
 
 }
+
+#new-password-div {
+    font-size: 30px;
+    border: 1px solid gray;
+    border-radius: 15px;
+}
+
+#copy-button {
+    margin: 5px;
+}
