@@ -8,11 +8,11 @@ def generate_password(length):
         number {integer} -- length of the password
     
     Returns:
-        [string] -- the new password
+        [string] -- generated password
     '''
     
     # Make sure the generated password will have the desired length
-    pass_length = int(length) - 3
+    pass_length = length - 3
 
     alphabet = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
     numbers = ['0','1','2','3','4','5','6','7','8','9']
@@ -37,7 +37,7 @@ def generate_password(length):
     pass_list.append(number)
 
     # Get random letters from alphabet and append to pass_list
-    for i in range (int(pass_length)):
+    for i in range (pass_length):
         random_item = random.choices(alphabet)
         item = ''.join(random_item)
         pass_list.append(item)

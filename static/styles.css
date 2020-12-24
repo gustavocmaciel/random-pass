@@ -8,16 +8,18 @@
 
 }
 
-#new-password-div {
+.new-password {
     font-size: 30px;
     border: 1px solid lightsteelblue;
     border-radius: 15px;
+    max-width: 100%;
+    text-overflow: ellipsis;
 }
 
 #copy-button {
     margin-top: 15px;
 }
 
-#password {
+/*#password {
     word-wrap: break-word;
-}
+}*/

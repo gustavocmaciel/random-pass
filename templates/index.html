@@ -3,10 +3,11 @@
 {% block div %}
 
     <h1 class="display-2 mb-2"><b>Random</b> Password</h1>
+    <h3 >Create a secure password</h3>
     <br>
     <form action="/new-password" method="post">
         <div class="form-group">
-            <label id="label">Select length:</label>
+            <label id="label">Password length</label>
             <select class="form-select" required name="length">
                 <option disabled value="">Length</option>
                 <option value="4">4</option>
