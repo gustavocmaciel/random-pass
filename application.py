@@ -8,7 +8,7 @@ app = Flask(__name__)
 def index():
     return render_template("index.html")
 
-@app.route("new-password", methods=["GET", "POST"])
+@app.route("/new-password", methods=["GET", "POST"])
 def new_password():
 
     # Generate new password
