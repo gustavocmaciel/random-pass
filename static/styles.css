@@ -10,10 +10,14 @@
 
 #new-password-div {
     font-size: 30px;
-    border: 1px solid gray;
+    border: 1px solid lightsteelblue;
     border-radius: 15px;
 }
 
 #copy-button {
     margin: 5px;
+}
+
+#password {
+    word-wrap: break-word;
 }
