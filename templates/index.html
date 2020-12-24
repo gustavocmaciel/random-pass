@@ -7,7 +7,7 @@
     <form action="/new-password" method="post">
         <div class="form-group">
             <label id="label">Select length:</label>
-            <select class="form-control" required name="length">
+            <select class="form-select" required name="length">
                 <option disabled value="">Length</option>
                 <option value="4">4</option>
                 <option value="8">8</option>
@@ -16,7 +16,7 @@
                 <option value="64">64</option>
             </select>
         </div>
-        <input type="submit" class="btn btn-lg btn-success gen-button" value="Generate Password">
+        <input type="submit" class="btn btn-lg btn-primary gen-button" value="Generate Password">
     </form>
 
 {% endblock %}
