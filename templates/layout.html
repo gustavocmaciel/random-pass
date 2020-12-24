@@ -17,14 +17,15 @@
 
         <link href="/static/styles.css" rel="stylesheet">
 
+        {% block script %}
+        {% endblock %}
+
     </head>
     <body>
         <div class="layers-foreground">
             <div class="container">
                 <div id="index-div" class="row justify-content-center align-items-center vh-100">
                     <div class="col-md-8 text-center text-shadow">
-                        <h1 class="display-2 mb-2"><b>Random</b> Password</h1>
-                        <br>
                         {% block div %}
                         {% endblock %}
                     </div>
