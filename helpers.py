@@ -12,7 +12,6 @@ def generate_password(length):
     '''
     
     # Make sure the generated password will have the desired length
-    ## FIXME: Check if is necessary to convert to int
     pass_length = int(length) - 3
 
     alphabet = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
