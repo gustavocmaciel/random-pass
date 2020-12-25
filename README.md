@@ -6,7 +6,7 @@
 <h1 align="center"><b>Random Password</b></h1>
 <p align="center">A Password Generator Tool.</p>
 
-![](/media/screenshot_index.png)
+![](./media/screenshot_index.png)
 
 ## About
 
