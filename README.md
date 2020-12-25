@@ -4,8 +4,8 @@ Random password is a web version of [pass-gen-cli](https://github.com/gcmaciel/p
 
 ### Contributing
 
-Feel fre to [open a bug](https://github.com/gcmaciel/random-pass/issues) or [contribute to code](https://github.com/gcmaciel/random-pass/pulls)
+Feel free to [open a bug](https://github.com/gcmaciel/random-pass/issues) or [contribute to code](https://github.com/gcmaciel/random-pass/pulls)
 
 ## License
 
-This project is licensed under the [MIT license](LICENSE)
+This project is open source and available under the [MIT license](LICENSE).
