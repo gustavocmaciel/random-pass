@@ -1,4 +1,5 @@
 <p align="center">
+[![GitHub license](https://img.shields.io/github/license/gcmaciel/random-pass)](https://github.com/gcmaciel/random-pass/blob/master/LICENSE)
  <img src="">
    <a href=""><img src=""></a>
  </p>
