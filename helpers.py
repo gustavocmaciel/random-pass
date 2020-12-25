@@ -11,7 +11,7 @@ def generate_password(length):
     '''
 
     # Make sure the generated password will have the desired length.
-    # The "- 3" part is because it's the sum of (uppercase character + special character + number), 
+    # The "- 3" part represents the sum of (uppercase character + special character + number), 
     # which are the required characters.
     pass_length = length - 3
 
