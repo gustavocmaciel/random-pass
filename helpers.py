@@ -14,7 +14,6 @@ def generate_password(length):
     # The "- 3" part represents the sum of (uppercase character + special character + number), 
     # which are the required characters.
     pass_length = length - 3
-    a
 
     alphabet = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
     numbers = ['0','1','2','3','4','5','6','7','8','9']
