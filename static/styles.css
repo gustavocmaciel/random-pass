@@ -3,6 +3,18 @@
     margin: 5px;
 }
 
+.blue {
+    color:#0a2240;
+}
+
+.red {
+    color: red;
+}
+
+.bold {
+    font-weight: bold;
+}
+
 .gen-button {
     margin: 10px;
 
