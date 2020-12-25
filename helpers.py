@@ -1,17 +1,18 @@
 import random
 
 def generate_password(length):
-    '''
-    Generates a new password
+    '''Generates a random password.
 
-    Argument: 
-        number {integer} -- length of the password
-    
+    Args:
+        length (int): The length the new password should have.
     Returns:
-        [string] -- generated password
+        string: comprised of uppercase letters, special characters,
+          numbers and lowercase letters that represents the new password.
     '''
-    
-    # Make sure the generated password will have the desired length
+
+    # Make sure the generated password will have the desired length.
+    # The "- 3" part is because it's the sum of (uppercase character + special character + number), 
+    # which are the required characters.
     pass_length = length - 3
 
     alphabet = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
