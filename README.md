@@ -1,12 +1,12 @@
 <p align="center">
 <a href="https://github.com/gcmaciel/random-pass/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/gcmaciel/random-pass"></a>
- <img src="">
+ <img src="/media/screenshot_index.png">
    <a href=""><img src=""></a>
  </p>
 <h1 align="center"><b>Random Password</b></h1>
 <p align="center">A Password Generator Tool.</p>
 
-![Screenshot](./assets/takenote-light.png)
+![](/media/screenshot_index.png)
 
 ## About
 
