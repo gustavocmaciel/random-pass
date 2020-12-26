@@ -29,9 +29,7 @@ Feel free to [open issues, bugs, feature requests](https://github.com/gcmaciel/r
 
 These are screenshots from the project. It has a simple design built with [Bootstrap](https://getbootstrap.com/).
 
-![Screenshot](/images/Screenshot_index.png)
-
-![Screenshot](/Screenshot_new_password.png)
+![image](https://user-images.githubusercontent.com/66797203/103152284-551a7b80-4765-11eb-9a8f-b9c01522e235.png)
 
 ## License
 
