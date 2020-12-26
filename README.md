@@ -1,6 +1,6 @@
 # Random Password
 
-<a href="https://github.com/gcmaciel/random-pass/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/gcmaciel/random-pass"></a>
+<a href="https://github.com/gcmaciel/random-pass/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/badge/License-MIT-green.svg"></a>
 
 **A Password Generator Tool**.
 
