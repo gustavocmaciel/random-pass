@@ -4,7 +4,7 @@
 
 **A Password Generator Tool**.
 
-You can visit the website at [https://randompass.herokuapp.com]()
+You can visit the website at [https://random-pass.herokuapp.com](https://random-pass.herokuapp.com/)
 
 Contents:
 - [Overview](https://github.com/gcmaciel/random-pass#overview)
