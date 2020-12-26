@@ -1,16 +1,16 @@
 # Random Password
 
-<a href="https://github.com/gcmaciel/random-pass/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/badge/License-MIT-green.svg"></a>
+![LICENSE](https://img.shields.io/badge/License-MIT-green.svg)
 
 **A Password Generator Tool**.
 
 You can visit the website at [https://randompass.herokuapp.com]()
 
 Contents:
-- [Overview]()
-- [Contributing]()
-- [Screenshots]()
-- [License]()
+- [Overview](https://github.com/gcmaciel/random-pass#overview)
+- [Contributing](https://github.com/gcmaciel/random-pass#contributing)
+- [Screenshots](https://github.com/gcmaciel/random-pass#screenshots)
+- [License](https://github.com/gcmaciel/random-pass#license)
 
 
 ## Overview
@@ -29,9 +29,9 @@ Feel free to [open issues, bugs, feature requests](https://github.com/gcmaciel/r
 
 These are screenshots from the project. It has a simple design built with [Bootstrap](https://getbootstrap.com/).
 
-![Screenshot](https://github.com/gcmaciel/random-pass/blob/master/images/Screenshot_index.png)
+![Screenshot](/images/Screenshot_index.png)
 
-![Screenshot](https://github.com/gcmaciel/random-pass/blob/master/images/Screenshot_new_password.png)
+![Screenshot](/Screenshot_new_password.png)
 
 ## License
 
