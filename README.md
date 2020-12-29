@@ -19,8 +19,6 @@ It generates a password containing a uppercase letter, a special character, a nu
 
 - Built with Python (Flask), Javascript, HTML and CSS.
 
-![image](https://user-images.githubusercontent.com/66797203/103152761-c8be8780-4769-11eb-871c-1f5036a5ce84.png)
-
 ## Contributing
 
 Feel free to [open issues, bugs, feature requests](https://github.com/gcmaciel/random-pass/issues) or [contribute to code](https://github.com/gcmaciel/random-pass/pulls).
