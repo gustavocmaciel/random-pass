@@ -25,6 +25,10 @@ It generates a password containing a uppercase letter, a special character, a nu
 
 ![image](https://user-images.githubusercontent.com/66797203/104133010-ad559e00-535f-11eb-8c91-275bc87bfadd.png)
 
+![image](https://user-images.githubusercontent.com/66797203/104133151-79c74380-5360-11eb-9ca0-80d4f8226b21.png)
+
+![image](https://user-images.githubusercontent.com/66797203/104133159-89df2300-5360-11eb-862f-af10fd69f3e6.png)
+
 ## Contributing
 
 Feel free to [open issues, bugs, feature requests](https://github.com/gcmaciel/random-pass/issues) or [contribute to code](https://github.com/gcmaciel/random-pass/pulls).
