@@ -8,6 +8,7 @@ You can visit the website at [https://random-pass.herokuapp.com](https://random-
 
 Contents:
 - [Overview](https://github.com/gcmaciel/random-pass#overview)
+- [Screenshot](https://github.com/gcmaciel/random-pass#screenshot)
 - [Contributing](https://github.com/gcmaciel/random-pass#contributing)
 - [License](https://github.com/gcmaciel/random-pass#license)
 
@@ -19,13 +20,7 @@ It generates a password containing a uppercase letter, a special character, a nu
 
 - Built with Python (Flask), Javascript, HTML and CSS.
 
-## Screenshots
-
-![image](https://user-images.githubusercontent.com/66797203/104132975-7d0dff80-535f-11eb-97f7-e190a1afe42d.png)
-
-![image](https://user-images.githubusercontent.com/66797203/104133010-ad559e00-535f-11eb-8c91-275bc87bfadd.png)
-
-![image](https://user-images.githubusercontent.com/66797203/104133151-79c74380-5360-11eb-9ca0-80d4f8226b21.png)
+## Screenshot
 
 ![image](https://user-images.githubusercontent.com/66797203/104133159-89df2300-5360-11eb-862f-af10fd69f3e6.png)
 
