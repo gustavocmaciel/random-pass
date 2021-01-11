@@ -8,7 +8,6 @@ You can visit the website at [https://random-pass.herokuapp.com](https://random-
 
 Contents:
 - [Overview](https://github.com/gcmaciel/random-pass#overview)
-- [Screenshot](https://github.com/gcmaciel/random-pass#screenshot)
 - [Contributing](https://github.com/gcmaciel/random-pass#contributing)
 - [License](https://github.com/gcmaciel/random-pass#license)
 
@@ -19,10 +18,6 @@ Random Password is a web version of [pass-gen-cli](https://github.com/gcmaciel/p
 It generates a password containing a uppercase letter, a special character, a number and lowercase letters. The user can choose the length of the password (it can be either 4, 16, 32 or 64).
 
 - Built with Python (Flask), Javascript, HTML and CSS.
-
-## Screenshot
-
-![image](https://user-images.githubusercontent.com/66797203/104133159-89df2300-5360-11eb-862f-af10fd69f3e6.png)
 
 ## Contributing
 
