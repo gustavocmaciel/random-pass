@@ -1,6 +1,7 @@
 # Random Password
 
 ![LICENSE](https://img.shields.io/badge/License-MIT-green.svg)
+![CI](https://github.com/gcmaciel/random-pass/workflows/CI/badge.svg)
 
 **A Password Generator Tool**.
 
