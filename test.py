@@ -52,7 +52,7 @@ class RandomPassTestCase(unittest.TestCase):
 
 
     def test_lenght(self):
-        """ Check that password lenght is 8."""
+        """ Check password lenght."""
         result = generate_password(8)
         self.assertEqual(len(result), 8)
 
